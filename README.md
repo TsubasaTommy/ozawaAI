@@ -9,3 +9,4 @@ cd ozawaAI
 ``` bash
 docker-compose up -d
 ```
+docker-compose up -dが無事に終わったら localhost:8000 をwebブラウザで開いてみてください♪
