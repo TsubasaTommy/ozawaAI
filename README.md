@@ -1,7 +1,7 @@
 # 環境構築
 dockerをインストール後下記のコマンドを実行してください
 ``` bash
-git clone "URL"
+git clone "https://github.com/TsubasaTommy/ozawaAI.git"
 ```
 ``` bash
 cd ozawaAI
